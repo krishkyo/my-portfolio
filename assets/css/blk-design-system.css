@@ -20394,7 +20394,7 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
 }
 
 .card-chart .card-header .card-title i {
-  font-size: 16px;
+  font-size: 14px;
   margin-right: 5px;
   margin-bottom: 3px;
 }
@@ -20658,8 +20658,8 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
 
 .card-register .card-header .card-title {
   position: relative;
-  font-size: 5em;
-  font-weight: 900;
+  font-size: 3em;
+  font-weight: 500;
   color: #222a42;
   text-transform: lowercase;
   margin-left: -5px;
@@ -20717,7 +20717,7 @@ input.datetimepicker[data-color="yellow"]+.bootstrap-datetimepicker-widget.dropd
 
 .card-stats .card-body .numbers {
   text-align: right;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .card-stats .card-body .numbers p {
